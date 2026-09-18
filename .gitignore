@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.barcode_env/
+.env
+build/
+dist/
+*.exe
